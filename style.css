@@ -1,0 +1,17 @@
+.HeadSection{
+    display: flex;
+    border: 2px solid red;
+}
+
+.HeadSectionTextDiv {
+    width: 40%;
+    border: 2px solid green;
+}
+.HeadSectionImageDiv{
+    width: 60%;
+    border: 2px solid black;
+}
+.HeadSectionImageDiv img{
+    width: 35%;
+    border: 2px solid cyan;
+}
