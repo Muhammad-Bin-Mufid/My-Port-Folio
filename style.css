@@ -74,8 +74,12 @@ button{
     text-align: center;
 }
 
-h2, h3{
+h2{
     color: rebeccapurple;
     font-size: xxx-large;
+    font-weight: bolder;
 }
 
+h2 span{
+    color: orange;
+}
