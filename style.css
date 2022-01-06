@@ -57,7 +57,7 @@ footer{
 button{
     border-radius: 20px;
     background-color: lightcoral;
-    padding: 10px;
+    padding: 15px;
     color: wheat;
     font-size: 20px;
     font-weight: bold;
@@ -82,4 +82,9 @@ h2{
 
 h2 span{
     color: orange;
+}
+
+button a{
+    text-decoration: none;
+    color: wheat;
 }
